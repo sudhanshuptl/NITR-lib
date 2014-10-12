@@ -1,7 +1,7 @@
 <?php
 session_start();
 require('dbconnect.php');
-$handle = fopen("final.sua", "r");
+$handle = fopen("final.sas", "r");
 if ($handle) {
 	$lineno = (int)($_POST['start']);
     $Num_of_insert=0;

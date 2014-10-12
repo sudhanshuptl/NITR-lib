@@ -5,6 +5,3 @@
 5<!|!>Taylor & Francis Group<!|!>Applied Artificial Intelligence<!|!>Journal <!|!><!|!>http://www.tandfonline.com/openurl?genre=journal&eissn=1087-6545
 6<!|!>Taylor & Francis Group<!|!>Architectural Engineering and Design Management<!|!>Journal <!|!><!|!>http://www.tandfonline.com/toc/taem20/current
 7<!|!>Taylor & Francis Group<!|!>Architectural Science Review<!|!>Journal <!|!><!|!>http://www.tandfonline.com/toc/tasr20/current
-8<!|!>Taylor & Francis Group<!|!>Assistive Technology: The Offical Journal of RESNA<!|!>Journal <!|!><!|!>http://www.tandfonline.com/openurl?genre=journal&eissn=1949-3614
-9<!|!>Taylor & Francis Group<!|!>Aviation<!|!>Journal <!|!><!|!>http://www.tandfonline.com/openurl?genre=journal&eissn=1822-4180
-10<!|!>Taylor & Francis Group<!|!>Behaviour & Information Technology<!|!>Journal <!|!><!|!>http://www.tandfonline.com/openurl?genre=journal&eissn=1362-3001
